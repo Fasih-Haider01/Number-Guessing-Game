@@ -1,0 +1,23 @@
+{
+  "name": "@fasih_haider10/number-guessing-game",
+  "version": "1.0.0",
+  "description": "Computer will generate a random number and user has to guess it.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fasih Haider",
+  "license": "MIT",
+  "dependencies": {
+    "@fasih_haider10/number-guessing-game": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
