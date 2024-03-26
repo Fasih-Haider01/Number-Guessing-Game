@@ -1,6 +1,6 @@
 {
   "name": "@fasih_haider10/number-guessing-game",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Computer will generate a random number and user has to guess it.",
   "main": "index.js",
   "type": "module",
